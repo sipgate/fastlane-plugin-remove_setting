@@ -14,16 +14,6 @@
 			<key>Type</key>
 			<string>PSTitleValueSpecifier</string>
 		</dict>
-		<dict>
-			<key>Type</key>
-			<string>PSToggleSwitchSpecifier</string>
-			<key>Title</key>
-			<string>Development Mode</string>
-			<key>Key</key>
-			<string>DevelopmentMode</string>
-			<key>DefaultValue</key>
-			<false/>
-		</dict>
 	</array>
 	<key>StringsTable</key>
 	<string>Root</string>
